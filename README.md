@@ -1,4 +1,4 @@
-🛒 FershCart | E-Commerce Platform (Short Summary)
+🛒 FershCart | E-Commerce Platform
 
 FershCart is a modern, full-featured e-commerce platform built with the latest web technologies, delivering a fast, secure, and responsive shopping experience across all devices.
 
@@ -26,4 +26,5 @@ Static pages (About, Privacy, Terms, Contact)
 Protected routes & optimized performance
 
 Fully responsive design with Arabic support
+
  Demo : https://e-commerce-orpin-nu-55.vercel.app/
